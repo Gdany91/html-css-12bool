@@ -1,0 +1,31 @@
+[class*="col-xs"]{
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    font-size: 0.8rem;
+    min-height: 30px;
+}
+
+.txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.higher{
+    min-height: 50px;
+    margin-bottom: 15px;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+
+.nasted{
+    background-color:#00e265 ;
+    min-height: 30px;
+    
+}
+
+.last{
+    margin-bottom: 15px;
+}
